@@ -1,0 +1,5 @@
+id,user_id,action,details,timestamp
+1,101,login,User logged in,2025-08-28 10:04:22
+2,101,view_assignment,Viewed Assignment 4,2025-08-28 10:06:10
+3,101,upload,Submitted Assignment 4,2025-08-28 10:10:40
+4,101,logout,User logged out,2025-08-28 10:11:00

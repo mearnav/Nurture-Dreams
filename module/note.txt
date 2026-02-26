@@ -1,0 +1,8 @@
+date_profile: This is a sample text file for data profile.
+data_address_detail: It contains plain text data for address detail.
+data_file_content: this is file content detail Used for testing .txt file reading.
+
+1) how to read a property file and convert it into JSON
+2) localhost:8080/ page = (content) / params = (content). [only one api call, goto database and take out the mapping of the data and bring it]
+3) file upload and download.
+4) diff b/w Get- is used for calling selected data and POST- parameters are secure and can pass unilimited data. PUT- it is used for update value in database
