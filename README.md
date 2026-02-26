@@ -36,3 +36,25 @@ Clone the repository:
 ```bash
 git clone git@github.com:mearnav/Nurture-Dreams.git
 cd Nurture-Dreams
+```
+
+Create virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Install dependencies (if needed):
+```bash
+pip install openpyxl
+```
+
+Run application:
+```bash
+python3 app.py
+```
+
+## 🔹 Notes
+- Database files are stored locally.
+- Modify .gitignore if deploying publicly.
+- Recommended to enhance security using hashed passwords in future versions.
